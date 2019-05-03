@@ -6,6 +6,10 @@ import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 
+/**
+ * File Io opdracht opgemaakt in peer.
+ * Hannes en Daniel
+ */
 public class MainApp {
 
     public static void main(String[] args) {
