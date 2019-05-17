@@ -1,0 +1,480 @@
+
+name                                              |  readable   |  writeable  |
+
+--------
+csv:
+--------
+Columbus_Ed_astro_pi_datalog.csv                  |      x      |     x       |
+
+--------
+exe:
+--------
+jetbrains-toolbox-1.14.5179.exe                   |      x      |     x       |
+
+--------
+gif:
+--------
+clean_code.gif                                    |      x      |     x       |
+client_vs_programmer.gif                          |      x      |     x       |
+little_bug.gif                                    |      x      |     x       |
+
+--------
+jpg:
+--------
+forloop_humor.jpg                                 |      x      |     x       |
+goofy_code.jpg                                    |      x      |     x       |
+it's_all_over.jpg                                 |      x      |     x       |
+java_basics.jpg                                   |      x      |     x       |
+will_happen_sooner_then_you_think.jpg             |      x      |     x       |
+
+--------
+json:
+--------
+movies.json                                       |      x      |     x       |
+opendatanottingham.json                           |      x      |     x       |
+
+--------
+pdf:
+--------
+Annual2018.pdf                                    |      x      |     x       |
+Beginners_Book_v1.pdf                             |      x      |     x       |
+Essentials_AIY_Projects_Voice_v1.pdf              |      x      |     x       |
+Essentials_Bash_v1.pdf                            |      x      |     x       |
+Essentials_Camera_v1.pdf                          |      x      |     x       |
+Essentials_C_v1.pdf                               |      x      |     x       |
+Essentials_Games_v1.pdf                           |      x      |     x       |
+Essentials_GPIOZero_v1.pdf                        |      x      |     x       |
+Essentials_Minecraft_v1.pdf                       |      x      |     x       |
+Essentials_Scratch_v1.pdf                         |      x      |     x       |
+Essentials_SenseHAT_v1.pdf                        |      x      |     x       |
+Essentials_Sonic_Pi-v1.pdf                        |      x      |     x       |
+InformatieAnalyse - Gerlof Donga Bert Pinkster.pdf|      x      |     x       |
+MagPi01.pdf                                       |      x      |     x       |
+MagPi02.pdf                                       |      x      |     x       |
+MagPi03.pdf                                       |      x      |     x       |
+MagPi04.pdf                                       |      x      |     x       |
+MagPi05.pdf                                       |      x      |     x       |
+MagPi06.pdf                                       |      x      |     x       |
+MagPi07.pdf                                       |      x      |     x       |
+MagPi08.pdf                                       |      x      |     x       |
+MagPi09.pdf                                       |      x      |     x       |
+MagPi10.pdf                                       |      x      |     x       |
+MagPi11.pdf                                       |      x      |     x       |
+MagPi12.pdf                                       |      x      |     x       |
+MagPi13.pdf                                       |      x      |     x       |
+MagPi14.pdf                                       |      x      |     x       |
+MagPi15.pdf                                       |      x      |     x       |
+MagPi16.pdf                                       |      x      |     x       |
+MagPi17.pdf                                       |      x      |     x       |
+MagPi18.pdf                                       |      x      |     x       |
+MagPi19.pdf                                       |      x      |     x       |
+MagPi20.pdf                                       |      x      |     x       |
+MagPi21.pdf                                       |      x      |     x       |
+MagPi22.pdf                                       |      x      |     x       |
+MagPi23.pdf                                       |      x      |     x       |
+MagPi24.pdf                                       |      x      |     x       |
+MagPi25.pdf                                       |      x      |     x       |
+MagPi26.pdf                                       |      x      |     x       |
+MagPi27.pdf                                       |      x      |     x       |
+MagPi28.pdf                                       |      x      |     x       |
+MagPi29.pdf                                       |      x      |     x       |
+MagPi30.pdf                                       |      x      |     x       |
+MagPi31.pdf                                       |      x      |     x       |
+MagPi32.pdf                                       |      x      |     x       |
+MagPi33.pdf                                       |      x      |     x       |
+MagPi34.pdf                                       |      x      |     x       |
+MagPi35.pdf                                       |      x      |     x       |
+MagPi36.pdf                                       |      x      |     x       |
+MagPi37.pdf                                       |      x      |     x       |
+MagPi38.pdf                                       |      x      |     x       |
+MagPi39.pdf                                       |      x      |     x       |
+MagPi40.pdf                                       |      x      |     x       |
+MagPi41.pdf                                       |      x      |     x       |
+MagPi42.pdf                                       |      x      |     x       |
+MagPi43.pdf                                       |      x      |     x       |
+MagPi44.pdf                                       |      x      |     x       |
+MagPi45.pdf                                       |      x      |     x       |
+MagPi46.pdf                                       |      x      |     x       |
+MagPi47.pdf                                       |      x      |     x       |
+MagPi48.pdf                                       |      x      |     x       |
+MagPi49.pdf                                       |      x      |     x       |
+MagPi50.pdf                                       |      x      |     x       |
+MagPi51.pdf                                       |      x      |     x       |
+MagPi52.pdf                                       |      x      |     x       |
+MagPi53.pdf                                       |      x      |     x       |
+MagPi54.pdf                                       |      x      |     x       |
+MagPi55.pdf                                       |      x      |     x       |
+MagPi56.pdf                                       |      x      |     x       |
+MagPi57.pdf                                       |      x      |     x       |
+MagPi58.pdf                                       |      x      |     x       |
+MagPi59.pdf                                       |      x      |     x       |
+MagPi60.pdf                                       |      x      |     x       |
+MagPi61.pdf                                       |      x      |     x       |
+MagPi62.pdf                                       |      x      |     x       |
+MagPi63.pdf                                       |      x      |     x       |
+MagPi64.pdf                                       |      x      |     x       |
+MagPi66.pdf                                       |      x      |     x       |
+MagPi67.pdf                                       |      x      |     x       |
+MagPi68.pdf                                       |      x      |     x       |
+MagPi69.pdf                                       |      x      |     x       |
+MagPi70.pdf                                       |      x      |     x       |
+MagPi71.pdf                                       |      x      |     x       |
+MagPiSE1.pdf                                      |      x      |     x       |
+Projects_Book_v1.pdf                              |      x      |     x       |
+Projects_Book_v2.pdf                              |      x      |     x       |
+Projects_Book_v3.pdf                              |      x      |     x       |
+
+--------
+png:
+--------
+frontend.png                                      |      x      |     x       |
+
+--------
+py:
+--------
+WorkingWithFiles.py                               |      x      |     x       |
+
+--------
+sqlite3:
+--------
+mov_db.sqlite3                                    |      x      |     x       |
+
+--------
+txt:
+--------
+diggy_diggy_hole.txt                              |      x      |     x       |
+mr_robot.txt                                      |      x      |     x       |
+quote_mr_robot.txt                                |      x      |     x       |
+SOAD.txt                                          |      x      |     /       |
+
+--------
+wma:
+--------
+03 Track 3.wma                                    |      x      |     x       |
+
+--------
+zip:
+--------
+test_pictures.zip                                 |      x      |     x       |
+
+--------
+csv:
+--------
+Columbus_Ed_astro_pi_datalog.csv                  |      x      |     x       |
+
+--------
+exe:
+--------
+jetbrains-toolbox-1.14.5179.exe                   |      x      |     x       |
+
+--------
+gif:
+--------
+clean_code.gif                                    |      x      |     x       |
+client_vs_programmer.gif                          |      x      |     x       |
+little_bug.gif                                    |      x      |     x       |
+
+--------
+gitignore:
+--------
+.gitignore                                        |      x      |     x       |
+
+--------
+jpg:
+--------
+forloop_humor.jpg                                 |      x      |     x       |
+goofy_code.jpg                                    |      x      |     x       |
+it's_all_over.jpg                                 |      x      |     x       |
+java_basics.jpg                                   |      x      |     x       |
+will_happen_sooner_then_you_think.jpg             |      x      |     x       |
+
+--------
+json:
+--------
+movies.json                                       |      x      |     x       |
+opendatanottingham.json                           |      x      |     x       |
+
+--------
+pdf:
+--------
+Annual2018.pdf                                    |      x      |     x       |
+Beginners_Book_v1.pdf                             |      x      |     x       |
+Essentials_AIY_Projects_Voice_v1.pdf              |      x      |     x       |
+Essentials_Bash_v1.pdf                            |      x      |     x       |
+Essentials_Camera_v1.pdf                          |      x      |     x       |
+Essentials_C_v1.pdf                               |      x      |     x       |
+Essentials_Games_v1.pdf                           |      x      |     x       |
+Essentials_GPIOZero_v1.pdf                        |      x      |     x       |
+Essentials_Minecraft_v1.pdf                       |      x      |     x       |
+Essentials_Scratch_v1.pdf                         |      x      |     x       |
+Essentials_SenseHAT_v1.pdf                        |      x      |     x       |
+Essentials_Sonic_Pi-v1.pdf                        |      x      |     x       |
+InformatieAnalyse - Gerlof Donga Bert Pinkster.pdf|      x      |     x       |
+MagPi01.pdf                                       |      x      |     x       |
+MagPi02.pdf                                       |      x      |     x       |
+MagPi03.pdf                                       |      x      |     x       |
+MagPi04.pdf                                       |      x      |     x       |
+MagPi05.pdf                                       |      x      |     x       |
+MagPi06.pdf                                       |      x      |     x       |
+MagPi07.pdf                                       |      x      |     x       |
+MagPi08.pdf                                       |      x      |     x       |
+MagPi09.pdf                                       |      x      |     x       |
+MagPi10.pdf                                       |      x      |     x       |
+MagPi11.pdf                                       |      x      |     x       |
+MagPi12.pdf                                       |      x      |     x       |
+MagPi13.pdf                                       |      x      |     x       |
+MagPi14.pdf                                       |      x      |     x       |
+MagPi15.pdf                                       |      x      |     x       |
+MagPi16.pdf                                       |      x      |     x       |
+MagPi17.pdf                                       |      x      |     x       |
+MagPi18.pdf                                       |      x      |     x       |
+MagPi19.pdf                                       |      x      |     x       |
+MagPi20.pdf                                       |      x      |     x       |
+MagPi21.pdf                                       |      x      |     x       |
+MagPi22.pdf                                       |      x      |     x       |
+MagPi23.pdf                                       |      x      |     x       |
+MagPi24.pdf                                       |      x      |     x       |
+MagPi25.pdf                                       |      x      |     x       |
+MagPi26.pdf                                       |      x      |     x       |
+MagPi27.pdf                                       |      x      |     x       |
+MagPi28.pdf                                       |      x      |     x       |
+MagPi29.pdf                                       |      x      |     x       |
+MagPi30.pdf                                       |      x      |     x       |
+MagPi31.pdf                                       |      x      |     x       |
+MagPi32.pdf                                       |      x      |     x       |
+MagPi33.pdf                                       |      x      |     x       |
+MagPi34.pdf                                       |      x      |     x       |
+MagPi35.pdf                                       |      x      |     x       |
+MagPi36.pdf                                       |      x      |     x       |
+MagPi37.pdf                                       |      x      |     x       |
+MagPi38.pdf                                       |      x      |     x       |
+MagPi39.pdf                                       |      x      |     x       |
+MagPi40.pdf                                       |      x      |     x       |
+MagPi41.pdf                                       |      x      |     x       |
+MagPi42.pdf                                       |      x      |     x       |
+MagPi43.pdf                                       |      x      |     x       |
+MagPi44.pdf                                       |      x      |     x       |
+MagPi45.pdf                                       |      x      |     x       |
+MagPi46.pdf                                       |      x      |     x       |
+MagPi47.pdf                                       |      x      |     x       |
+MagPi48.pdf                                       |      x      |     x       |
+MagPi49.pdf                                       |      x      |     x       |
+MagPi50.pdf                                       |      x      |     x       |
+MagPi51.pdf                                       |      x      |     x       |
+MagPi52.pdf                                       |      x      |     x       |
+MagPi53.pdf                                       |      x      |     x       |
+MagPi54.pdf                                       |      x      |     x       |
+MagPi55.pdf                                       |      x      |     x       |
+MagPi56.pdf                                       |      x      |     x       |
+MagPi57.pdf                                       |      x      |     x       |
+MagPi58.pdf                                       |      x      |     x       |
+MagPi59.pdf                                       |      x      |     x       |
+MagPi60.pdf                                       |      x      |     x       |
+MagPi61.pdf                                       |      x      |     x       |
+MagPi62.pdf                                       |      x      |     x       |
+MagPi63.pdf                                       |      x      |     x       |
+MagPi64.pdf                                       |      x      |     x       |
+MagPi66.pdf                                       |      x      |     x       |
+MagPi67.pdf                                       |      x      |     x       |
+MagPi68.pdf                                       |      x      |     x       |
+MagPi69.pdf                                       |      x      |     x       |
+MagPi70.pdf                                       |      x      |     x       |
+MagPi71.pdf                                       |      x      |     x       |
+MagPiSE1.pdf                                      |      x      |     x       |
+Projects_Book_v1.pdf                              |      x      |     x       |
+Projects_Book_v2.pdf                              |      x      |     x       |
+Projects_Book_v3.pdf                              |      x      |     x       |
+
+--------
+png:
+--------
+frontend.png                                      |      x      |     x       |
+
+--------
+py:
+--------
+WorkingWithFiles.py                               |      x      |     x       |
+
+--------
+sqlite3:
+--------
+mov_db.sqlite3                                    |      x      |     x       |
+
+--------
+txt:
+--------
+diggy_diggy_hole.txt                              |      x      |     x       |
+mr_robot.txt                                      |      x      |     x       |
+quote_mr_robot.txt                                |      x      |     x       |
+SOAD.txt                                          |      x      |     /       |
+
+--------
+wma:
+--------
+03 Track 3.wma                                    |      x      |     x       |
+
+--------
+zip:
+--------
+test_pictures.zip                                 |      x      |     x       |
+
+--------
+csv:
+--------
+Columbus_Ed_astro_pi_datalog.csv                  |      x      |     x       |
+
+--------
+exe:
+--------
+jetbrains-toolbox-1.14.5179.exe                   |      x      |     x       |
+
+--------
+gif:
+--------
+clean_code.gif                                    |      x      |     x       |
+client_vs_programmer.gif                          |      x      |     x       |
+little_bug.gif                                    |      x      |     x       |
+
+--------
+gitignore:
+--------
+.gitignore                                        |      x      |     x       |
+
+--------
+jpg:
+--------
+forloop_humor.jpg                                 |      x      |     x       |
+goofy_code.jpg                                    |      x      |     x       |
+it's_all_over.jpg                                 |      x      |     x       |
+java_basics.jpg                                   |      x      |     x       |
+will_happen_sooner_then_you_think.jpg             |      x      |     x       |
+
+--------
+json:
+--------
+movies.json                                       |      x      |     x       |
+opendatanottingham.json                           |      x      |     x       |
+
+--------
+pdf:
+--------
+Annual2018.pdf                                    |      x      |     x       |
+Beginners_Book_v1.pdf                             |      x      |     x       |
+Essentials_AIY_Projects_Voice_v1.pdf              |      x      |     x       |
+Essentials_Bash_v1.pdf                            |      x      |     x       |
+Essentials_Camera_v1.pdf                          |      x      |     x       |
+Essentials_C_v1.pdf                               |      x      |     x       |
+Essentials_Games_v1.pdf                           |      x      |     x       |
+Essentials_GPIOZero_v1.pdf                        |      x      |     x       |
+Essentials_Minecraft_v1.pdf                       |      x      |     x       |
+Essentials_Scratch_v1.pdf                         |      x      |     x       |
+Essentials_SenseHAT_v1.pdf                        |      x      |     x       |
+Essentials_Sonic_Pi-v1.pdf                        |      x      |     x       |
+InformatieAnalyse - Gerlof Donga Bert Pinkster.pdf|      x      |     x       |
+MagPi01.pdf                                       |      x      |     x       |
+MagPi02.pdf                                       |      x      |     x       |
+MagPi03.pdf                                       |      x      |     x       |
+MagPi04.pdf                                       |      x      |     x       |
+MagPi05.pdf                                       |      x      |     x       |
+MagPi06.pdf                                       |      x      |     x       |
+MagPi07.pdf                                       |      x      |     x       |
+MagPi08.pdf                                       |      x      |     x       |
+MagPi09.pdf                                       |      x      |     x       |
+MagPi10.pdf                                       |      x      |     x       |
+MagPi11.pdf                                       |      x      |     x       |
+MagPi12.pdf                                       |      x      |     x       |
+MagPi13.pdf                                       |      x      |     x       |
+MagPi14.pdf                                       |      x      |     x       |
+MagPi15.pdf                                       |      x      |     x       |
+MagPi16.pdf                                       |      x      |     x       |
+MagPi17.pdf                                       |      x      |     x       |
+MagPi18.pdf                                       |      x      |     x       |
+MagPi19.pdf                                       |      x      |     x       |
+MagPi20.pdf                                       |      x      |     x       |
+MagPi21.pdf                                       |      x      |     x       |
+MagPi22.pdf                                       |      x      |     x       |
+MagPi23.pdf                                       |      x      |     x       |
+MagPi24.pdf                                       |      x      |     x       |
+MagPi25.pdf                                       |      x      |     x       |
+MagPi26.pdf                                       |      x      |     x       |
+MagPi27.pdf                                       |      x      |     x       |
+MagPi28.pdf                                       |      x      |     x       |
+MagPi29.pdf                                       |      x      |     x       |
+MagPi30.pdf                                       |      x      |     x       |
+MagPi31.pdf                                       |      x      |     x       |
+MagPi32.pdf                                       |      x      |     x       |
+MagPi33.pdf                                       |      x      |     x       |
+MagPi34.pdf                                       |      x      |     x       |
+MagPi35.pdf                                       |      x      |     x       |
+MagPi36.pdf                                       |      x      |     x       |
+MagPi37.pdf                                       |      x      |     x       |
+MagPi38.pdf                                       |      x      |     x       |
+MagPi39.pdf                                       |      x      |     x       |
+MagPi40.pdf                                       |      x      |     x       |
+MagPi41.pdf                                       |      x      |     x       |
+MagPi42.pdf                                       |      x      |     x       |
+MagPi43.pdf                                       |      x      |     x       |
+MagPi44.pdf                                       |      x      |     x       |
+MagPi45.pdf                                       |      x      |     x       |
+MagPi46.pdf                                       |      x      |     x       |
+MagPi47.pdf                                       |      x      |     x       |
+MagPi48.pdf                                       |      x      |     x       |
+MagPi49.pdf                                       |      x      |     x       |
+MagPi50.pdf                                       |      x      |     x       |
+MagPi51.pdf                                       |      x      |     x       |
+MagPi52.pdf                                       |      x      |     x       |
+MagPi53.pdf                                       |      x      |     x       |
+MagPi54.pdf                                       |      x      |     x       |
+MagPi55.pdf                                       |      x      |     x       |
+MagPi56.pdf                                       |      x      |     x       |
+MagPi57.pdf                                       |      x      |     x       |
+MagPi58.pdf                                       |      x      |     x       |
+MagPi59.pdf                                       |      x      |     x       |
+MagPi60.pdf                                       |      x      |     x       |
+MagPi61.pdf                                       |      x      |     x       |
+MagPi62.pdf                                       |      x      |     x       |
+MagPi63.pdf                                       |      x      |     x       |
+MagPi64.pdf                                       |      x      |     x       |
+MagPi66.pdf                                       |      x      |     x       |
+MagPi67.pdf                                       |      x      |     x       |
+MagPi68.pdf                                       |      x      |     x       |
+MagPi69.pdf                                       |      x      |     x       |
+MagPi70.pdf                                       |      x      |     x       |
+MagPi71.pdf                                       |      x      |     x       |
+MagPiSE1.pdf                                      |      x      |     x       |
+Projects_Book_v1.pdf                              |      x      |     x       |
+Projects_Book_v2.pdf                              |      x      |     x       |
+Projects_Book_v3.pdf                              |      x      |     x       |
+
+--------
+png:
+--------
+frontend.png                                      |      x      |     x       |
+
+--------
+py:
+--------
+WorkingWithFiles.py                               |      x      |     x       |
+
+--------
+sqlite3:
+--------
+mov_db.sqlite3                                    |      x      |     x       |
+
+--------
+txt:
+--------
+diggy_diggy_hole.txt                              |      x      |     x       |
+mr_robot.txt                                      |      x      |     x       |
+quote_mr_robot.txt                                |      x      |     x       |
+SOAD.txt                                          |      x      |     /       |
+
+--------
+wma:
+--------
+03 Track 3.wma                                    |      x      |     x       |
+
+--------
+zip:
+--------
+test_pictures.zip                                 |      x      |     x       |
